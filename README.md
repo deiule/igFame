@@ -68,3 +68,9 @@ php bot.php
 - Fork this repo.
 - Add new features.
 - Create a new pull request for this branch.
+
+
+* I dont know what im doing, hoping nobody minds im learning php by reverse engineering this ;) *
+
+
+
